@@ -1,6 +1,6 @@
 # THL eKYC app
 
-THL eKYC is a flutter mobile app built by Group 22 - Information System Integration Course, supervised by Assoc. Prof. Pham Van Hai ([HUST - SOICT](soict.hust.edu.vn)).
+THL eKYC is a flutter mobile app built by Group 22 - Information System Integration Course, supervised by Assoc. Prof. Pham Van Hai ([HUST - SOICT](https://soict.hust.edu.vn)).
 
 ## Features
 
